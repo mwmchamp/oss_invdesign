@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Data and model artifacts
+datasets/
+checkpoints/
+surrogate/checkpoints/
+optimizer_runs/
+hifi_eval/
+preset_gallery/
+results/
+outputs/
+
+# Logs
+*.log
+slurm_*.out
+slurm_*.err
+eval_*.out
+eval_*.err
