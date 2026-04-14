@@ -1,4 +1,4 @@
-# OSS Inverse Design (Release Pipeline)
+# Survival of the Fastest: Rapid 4-Port Passive RFIC Optimization via Surrogate-Assisted Genetic Algorithms
 
 Minimal, portable release of the RF pixel-grid inverse design pipeline from the thesis work.
 
